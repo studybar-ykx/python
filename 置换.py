@@ -24,3 +24,4 @@ for i in range(len(s)//max):
     for j in range(max):
         encode_str=encode_str+encode_list[i][j]
 print(encode_str)
+#end
